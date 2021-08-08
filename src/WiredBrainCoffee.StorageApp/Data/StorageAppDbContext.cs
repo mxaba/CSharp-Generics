@@ -1,0 +1,15 @@
+using Microsoft.EntityFrameworkCore;
+using WiredBrainCoffee.StorageApp.Entities;
+
+namespace WiredBrainCoffee.StorageApp.Data
+{
+    public class StorageAppDbContext : DbContext {
+        public DbSet<Employee> Employees => Set<Employee>();
+        public DbSet<Organization> Organizations => Set<Organization>();
+
+        protected override void OnConfiguring(DbContextOptionsBuilder optionBuilder) {
+            base.OnConfiguring(optionBuilder);
+            optionBuilder.UseInMemoryDatabase("StorageAppDb");
+        }
+    }
+}

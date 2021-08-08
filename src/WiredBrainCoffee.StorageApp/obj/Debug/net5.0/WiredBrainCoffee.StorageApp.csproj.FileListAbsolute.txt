@@ -1,0 +1,56 @@
+/Users/mxaba/CodeX/C# Projects/C# Generics/src/WiredBrainCoffee.StorageApp/obj/Debug/net5.0/WiredBrainCoffee.StorageApp.csprojAssemblyReference.cache
+/Users/mxaba/CodeX/C# Projects/C# Generics/src/WiredBrainCoffee.StorageApp/obj/Debug/net5.0/WiredBrainCoffee.StorageApp.GeneratedMSBuildEditorConfig.editorconfig
+/Users/mxaba/CodeX/C# Projects/C# Generics/src/WiredBrainCoffee.StorageApp/obj/Debug/net5.0/WiredBrainCoffee.StorageApp.AssemblyInfoInputs.cache
+/Users/mxaba/CodeX/C# Projects/C# Generics/src/WiredBrainCoffee.StorageApp/obj/Debug/net5.0/WiredBrainCoffee.StorageApp.AssemblyInfo.cs
+/Users/mxaba/CodeX/C# Projects/C# Generics/src/WiredBrainCoffee.StorageApp/obj/Debug/net5.0/WiredBrainCoffee.StorageApp.csproj.CoreCompileInputs.cache
+/Users/mxaba/CodeX/C# Projects/C# Generics/src/WiredBrainCoffee.StorageApp/bin/Debug/net5.0/WiredBrainCoffee.StorageApp.deps.json
+/Users/mxaba/CodeX/C# Projects/C# Generics/src/WiredBrainCoffee.StorageApp/bin/Debug/net5.0/WiredBrainCoffee.StorageApp.runtimeconfig.json
+/Users/mxaba/CodeX/C# Projects/C# Generics/src/WiredBrainCoffee.StorageApp/bin/Debug/net5.0/WiredBrainCoffee.StorageApp.runtimeconfig.dev.json
+/Users/mxaba/CodeX/C# Projects/C# Generics/src/WiredBrainCoffee.StorageApp/bin/Debug/net5.0/WiredBrainCoffee.StorageApp.dll
+/Users/mxaba/CodeX/C# Projects/C# Generics/src/WiredBrainCoffee.StorageApp/bin/Debug/net5.0/ref/WiredBrainCoffee.StorageApp.dll
+/Users/mxaba/CodeX/C# Projects/C# Generics/src/WiredBrainCoffee.StorageApp/bin/Debug/net5.0/WiredBrainCoffee.StorageApp.pdb
+/Users/mxaba/CodeX/C# Projects/C# Generics/src/WiredBrainCoffee.StorageApp/obj/Debug/net5.0/WiredBrainCoffee.StorageApp.dll
+/Users/mxaba/CodeX/C# Projects/C# Generics/src/WiredBrainCoffee.StorageApp/obj/Debug/net5.0/ref/WiredBrainCoffee.StorageApp.dll
+/Users/mxaba/CodeX/C# Projects/C# Generics/src/WiredBrainCoffee.StorageApp/obj/Debug/net5.0/WiredBrainCoffee.StorageApp.pdb
+/Users/mxaba/CodeX/C# Projects/C# Generics/src/WiredBrainCoffee.StorageApp/obj/Debug/net5.0/WiredBrainCoffee.StorageApp.genruntimeconfig.cache
+/Users/mxaba/CodeX/C# Projects/C# Generics/src/WiredBrainCoffee.StorageApp/bin/Debug/net5.0/Microsoft.EntityFrameworkCore.dll
+/Users/mxaba/CodeX/C# Projects/C# Generics/src/WiredBrainCoffee.StorageApp/bin/Debug/net5.0/Microsoft.EntityFrameworkCore.Abstractions.dll
+/Users/mxaba/CodeX/C# Projects/C# Generics/src/WiredBrainCoffee.StorageApp/bin/Debug/net5.0/Microsoft.EntityFrameworkCore.InMemory.dll
+/Users/mxaba/CodeX/C# Projects/C# Generics/src/WiredBrainCoffee.StorageApp/bin/Debug/net5.0/Microsoft.Extensions.Caching.Abstractions.dll
+/Users/mxaba/CodeX/C# Projects/C# Generics/src/WiredBrainCoffee.StorageApp/bin/Debug/net5.0/Microsoft.Extensions.Caching.Memory.dll
+/Users/mxaba/CodeX/C# Projects/C# Generics/src/WiredBrainCoffee.StorageApp/bin/Debug/net5.0/Microsoft.Extensions.DependencyInjection.dll
+/Users/mxaba/CodeX/C# Projects/C# Generics/src/WiredBrainCoffee.StorageApp/bin/Debug/net5.0/Microsoft.Extensions.DependencyInjection.Abstractions.dll
+/Users/mxaba/CodeX/C# Projects/C# Generics/src/WiredBrainCoffee.StorageApp/bin/Debug/net5.0/Microsoft.Extensions.Logging.dll
+/Users/mxaba/CodeX/C# Projects/C# Generics/src/WiredBrainCoffee.StorageApp/bin/Debug/net5.0/Microsoft.Extensions.Logging.Abstractions.dll
+/Users/mxaba/CodeX/C# Projects/C# Generics/src/WiredBrainCoffee.StorageApp/bin/Debug/net5.0/Microsoft.Extensions.Options.dll
+/Users/mxaba/CodeX/C# Projects/C# Generics/src/WiredBrainCoffee.StorageApp/bin/Debug/net5.0/Microsoft.Extensions.Primitives.dll
+/Users/mxaba/CodeX/C# Projects/C# Generics/src/WiredBrainCoffee.StorageApp/bin/Debug/net5.0/System.Diagnostics.DiagnosticSource.dll
+/Users/mxaba/CodeX/C# Projects/C# Generics/src/WiredBrainCoffee.StorageApp/obj/Debug/net5.0/WiredBrainCoffee.StorageApp.csproj.CopyComplete
+/Users/mxaba/CodeX/C# Projects/CSharp-Generics/src/WiredBrainCoffee.StorageApp/bin/Debug/net5.0/WiredBrainCoffee.StorageApp.deps.json
+/Users/mxaba/CodeX/C# Projects/CSharp-Generics/src/WiredBrainCoffee.StorageApp/bin/Debug/net5.0/WiredBrainCoffee.StorageApp.runtimeconfig.json
+/Users/mxaba/CodeX/C# Projects/CSharp-Generics/src/WiredBrainCoffee.StorageApp/bin/Debug/net5.0/WiredBrainCoffee.StorageApp.runtimeconfig.dev.json
+/Users/mxaba/CodeX/C# Projects/CSharp-Generics/src/WiredBrainCoffee.StorageApp/bin/Debug/net5.0/WiredBrainCoffee.StorageApp.dll
+/Users/mxaba/CodeX/C# Projects/CSharp-Generics/src/WiredBrainCoffee.StorageApp/bin/Debug/net5.0/ref/WiredBrainCoffee.StorageApp.dll
+/Users/mxaba/CodeX/C# Projects/CSharp-Generics/src/WiredBrainCoffee.StorageApp/bin/Debug/net5.0/WiredBrainCoffee.StorageApp.pdb
+/Users/mxaba/CodeX/C# Projects/CSharp-Generics/src/WiredBrainCoffee.StorageApp/bin/Debug/net5.0/Microsoft.EntityFrameworkCore.dll
+/Users/mxaba/CodeX/C# Projects/CSharp-Generics/src/WiredBrainCoffee.StorageApp/bin/Debug/net5.0/Microsoft.EntityFrameworkCore.Abstractions.dll
+/Users/mxaba/CodeX/C# Projects/CSharp-Generics/src/WiredBrainCoffee.StorageApp/bin/Debug/net5.0/Microsoft.EntityFrameworkCore.InMemory.dll
+/Users/mxaba/CodeX/C# Projects/CSharp-Generics/src/WiredBrainCoffee.StorageApp/bin/Debug/net5.0/Microsoft.Extensions.Caching.Abstractions.dll
+/Users/mxaba/CodeX/C# Projects/CSharp-Generics/src/WiredBrainCoffee.StorageApp/bin/Debug/net5.0/Microsoft.Extensions.Caching.Memory.dll
+/Users/mxaba/CodeX/C# Projects/CSharp-Generics/src/WiredBrainCoffee.StorageApp/bin/Debug/net5.0/Microsoft.Extensions.DependencyInjection.dll
+/Users/mxaba/CodeX/C# Projects/CSharp-Generics/src/WiredBrainCoffee.StorageApp/bin/Debug/net5.0/Microsoft.Extensions.DependencyInjection.Abstractions.dll
+/Users/mxaba/CodeX/C# Projects/CSharp-Generics/src/WiredBrainCoffee.StorageApp/bin/Debug/net5.0/Microsoft.Extensions.Logging.dll
+/Users/mxaba/CodeX/C# Projects/CSharp-Generics/src/WiredBrainCoffee.StorageApp/bin/Debug/net5.0/Microsoft.Extensions.Logging.Abstractions.dll
+/Users/mxaba/CodeX/C# Projects/CSharp-Generics/src/WiredBrainCoffee.StorageApp/bin/Debug/net5.0/Microsoft.Extensions.Options.dll
+/Users/mxaba/CodeX/C# Projects/CSharp-Generics/src/WiredBrainCoffee.StorageApp/bin/Debug/net5.0/Microsoft.Extensions.Primitives.dll
+/Users/mxaba/CodeX/C# Projects/CSharp-Generics/src/WiredBrainCoffee.StorageApp/bin/Debug/net5.0/System.Diagnostics.DiagnosticSource.dll
+/Users/mxaba/CodeX/C# Projects/CSharp-Generics/src/WiredBrainCoffee.StorageApp/obj/Debug/net5.0/WiredBrainCoffee.StorageApp.csprojAssemblyReference.cache
+/Users/mxaba/CodeX/C# Projects/CSharp-Generics/src/WiredBrainCoffee.StorageApp/obj/Debug/net5.0/WiredBrainCoffee.StorageApp.GeneratedMSBuildEditorConfig.editorconfig
+/Users/mxaba/CodeX/C# Projects/CSharp-Generics/src/WiredBrainCoffee.StorageApp/obj/Debug/net5.0/WiredBrainCoffee.StorageApp.AssemblyInfoInputs.cache
+/Users/mxaba/CodeX/C# Projects/CSharp-Generics/src/WiredBrainCoffee.StorageApp/obj/Debug/net5.0/WiredBrainCoffee.StorageApp.AssemblyInfo.cs
+/Users/mxaba/CodeX/C# Projects/CSharp-Generics/src/WiredBrainCoffee.StorageApp/obj/Debug/net5.0/WiredBrainCoffee.StorageApp.csproj.CoreCompileInputs.cache
+/Users/mxaba/CodeX/C# Projects/CSharp-Generics/src/WiredBrainCoffee.StorageApp/obj/Debug/net5.0/WiredBrainCoffee.StorageApp.csproj.CopyComplete
+/Users/mxaba/CodeX/C# Projects/CSharp-Generics/src/WiredBrainCoffee.StorageApp/obj/Debug/net5.0/WiredBrainCoffee.StorageApp.dll
+/Users/mxaba/CodeX/C# Projects/CSharp-Generics/src/WiredBrainCoffee.StorageApp/obj/Debug/net5.0/ref/WiredBrainCoffee.StorageApp.dll
+/Users/mxaba/CodeX/C# Projects/CSharp-Generics/src/WiredBrainCoffee.StorageApp/obj/Debug/net5.0/WiredBrainCoffee.StorageApp.pdb
+/Users/mxaba/CodeX/C# Projects/CSharp-Generics/src/WiredBrainCoffee.StorageApp/obj/Debug/net5.0/WiredBrainCoffee.StorageApp.genruntimeconfig.cache
