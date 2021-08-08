@@ -1,0 +1,15 @@
+/Users/mxaba/CodeX/C# Projects/C# Generics/src/WiredBrainCoffee.StackApp/bin/Debug/net5.0/WiredBrainCoffee.StackApp.deps.json
+/Users/mxaba/CodeX/C# Projects/C# Generics/src/WiredBrainCoffee.StackApp/bin/Debug/net5.0/WiredBrainCoffee.StackApp.runtimeconfig.json
+/Users/mxaba/CodeX/C# Projects/C# Generics/src/WiredBrainCoffee.StackApp/bin/Debug/net5.0/WiredBrainCoffee.StackApp.runtimeconfig.dev.json
+/Users/mxaba/CodeX/C# Projects/C# Generics/src/WiredBrainCoffee.StackApp/bin/Debug/net5.0/WiredBrainCoffee.StackApp.dll
+/Users/mxaba/CodeX/C# Projects/C# Generics/src/WiredBrainCoffee.StackApp/bin/Debug/net5.0/ref/WiredBrainCoffee.StackApp.dll
+/Users/mxaba/CodeX/C# Projects/C# Generics/src/WiredBrainCoffee.StackApp/bin/Debug/net5.0/WiredBrainCoffee.StackApp.pdb
+/Users/mxaba/CodeX/C# Projects/C# Generics/src/WiredBrainCoffee.StackApp/obj/Debug/net5.0/WiredBrainCoffee.StackApp.csprojAssemblyReference.cache
+/Users/mxaba/CodeX/C# Projects/C# Generics/src/WiredBrainCoffee.StackApp/obj/Debug/net5.0/WiredBrainCoffee.StackApp.GeneratedMSBuildEditorConfig.editorconfig
+/Users/mxaba/CodeX/C# Projects/C# Generics/src/WiredBrainCoffee.StackApp/obj/Debug/net5.0/WiredBrainCoffee.StackApp.AssemblyInfoInputs.cache
+/Users/mxaba/CodeX/C# Projects/C# Generics/src/WiredBrainCoffee.StackApp/obj/Debug/net5.0/WiredBrainCoffee.StackApp.AssemblyInfo.cs
+/Users/mxaba/CodeX/C# Projects/C# Generics/src/WiredBrainCoffee.StackApp/obj/Debug/net5.0/WiredBrainCoffee.StackApp.csproj.CoreCompileInputs.cache
+/Users/mxaba/CodeX/C# Projects/C# Generics/src/WiredBrainCoffee.StackApp/obj/Debug/net5.0/WiredBrainCoffee.StackApp.dll
+/Users/mxaba/CodeX/C# Projects/C# Generics/src/WiredBrainCoffee.StackApp/obj/Debug/net5.0/ref/WiredBrainCoffee.StackApp.dll
+/Users/mxaba/CodeX/C# Projects/C# Generics/src/WiredBrainCoffee.StackApp/obj/Debug/net5.0/WiredBrainCoffee.StackApp.pdb
+/Users/mxaba/CodeX/C# Projects/C# Generics/src/WiredBrainCoffee.StackApp/obj/Debug/net5.0/WiredBrainCoffee.StackApp.genruntimeconfig.cache
