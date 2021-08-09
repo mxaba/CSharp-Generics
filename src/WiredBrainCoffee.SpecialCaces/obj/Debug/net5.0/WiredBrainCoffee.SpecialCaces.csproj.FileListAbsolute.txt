@@ -1,0 +1,15 @@
+/Users/mxaba/CodeX/C# Projects/CSharp-Generics/src/WiredBrainCoffee.SpecialCaces/bin/Debug/net5.0/WiredBrainCoffee.SpecialCaces.deps.json
+/Users/mxaba/CodeX/C# Projects/CSharp-Generics/src/WiredBrainCoffee.SpecialCaces/bin/Debug/net5.0/WiredBrainCoffee.SpecialCaces.runtimeconfig.json
+/Users/mxaba/CodeX/C# Projects/CSharp-Generics/src/WiredBrainCoffee.SpecialCaces/bin/Debug/net5.0/WiredBrainCoffee.SpecialCaces.runtimeconfig.dev.json
+/Users/mxaba/CodeX/C# Projects/CSharp-Generics/src/WiredBrainCoffee.SpecialCaces/bin/Debug/net5.0/WiredBrainCoffee.SpecialCaces.dll
+/Users/mxaba/CodeX/C# Projects/CSharp-Generics/src/WiredBrainCoffee.SpecialCaces/bin/Debug/net5.0/ref/WiredBrainCoffee.SpecialCaces.dll
+/Users/mxaba/CodeX/C# Projects/CSharp-Generics/src/WiredBrainCoffee.SpecialCaces/bin/Debug/net5.0/WiredBrainCoffee.SpecialCaces.pdb
+/Users/mxaba/CodeX/C# Projects/CSharp-Generics/src/WiredBrainCoffee.SpecialCaces/obj/Debug/net5.0/WiredBrainCoffee.SpecialCaces.csprojAssemblyReference.cache
+/Users/mxaba/CodeX/C# Projects/CSharp-Generics/src/WiredBrainCoffee.SpecialCaces/obj/Debug/net5.0/WiredBrainCoffee.SpecialCaces.GeneratedMSBuildEditorConfig.editorconfig
+/Users/mxaba/CodeX/C# Projects/CSharp-Generics/src/WiredBrainCoffee.SpecialCaces/obj/Debug/net5.0/WiredBrainCoffee.SpecialCaces.AssemblyInfoInputs.cache
+/Users/mxaba/CodeX/C# Projects/CSharp-Generics/src/WiredBrainCoffee.SpecialCaces/obj/Debug/net5.0/WiredBrainCoffee.SpecialCaces.AssemblyInfo.cs
+/Users/mxaba/CodeX/C# Projects/CSharp-Generics/src/WiredBrainCoffee.SpecialCaces/obj/Debug/net5.0/WiredBrainCoffee.SpecialCaces.csproj.CoreCompileInputs.cache
+/Users/mxaba/CodeX/C# Projects/CSharp-Generics/src/WiredBrainCoffee.SpecialCaces/obj/Debug/net5.0/WiredBrainCoffee.SpecialCaces.dll
+/Users/mxaba/CodeX/C# Projects/CSharp-Generics/src/WiredBrainCoffee.SpecialCaces/obj/Debug/net5.0/ref/WiredBrainCoffee.SpecialCaces.dll
+/Users/mxaba/CodeX/C# Projects/CSharp-Generics/src/WiredBrainCoffee.SpecialCaces/obj/Debug/net5.0/WiredBrainCoffee.SpecialCaces.pdb
+/Users/mxaba/CodeX/C# Projects/CSharp-Generics/src/WiredBrainCoffee.SpecialCaces/obj/Debug/net5.0/WiredBrainCoffee.SpecialCaces.genruntimeconfig.cache
